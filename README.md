@@ -15,7 +15,8 @@ A simple Checkers game built in C# with a WinForms UI for interactive gameplay. 
 # Installation & Setup
 1. Clone the repository
 2. Open in Visual Studio
-3. Build and run
+3. Make sure WinFormsUI is set to be the startup project
+4. Build and run
 
 # How to play
 * The game follows standard Checkers rules.
